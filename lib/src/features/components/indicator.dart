@@ -1,6 +1,5 @@
 import 'dart:math' as math show pi;
 import 'package:flutter/material.dart';
-
 import '../../common/constants/app_colors.dart';
 
 class CustomIndicator extends StatelessWidget {

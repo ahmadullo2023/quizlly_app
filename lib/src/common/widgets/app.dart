@@ -7,14 +7,14 @@ import '../../features/screens/launch_page.dart';
 
 class MyApp extends StatefulWidget {
   const MyApp({Key? key}) : super(key: key);
-
   @override
   State<MyApp> createState() => _MyAppState();
-
 }
 
 class _MyAppState extends State<MyApp> {
-  ValueNotifier<Locale> selected = ValueNotifier(Locale(AppLocalizations.supportedLocales.first.languageCode));
+  ValueNotifier<Locale> selected = ValueNotifier(
+      Locale(AppLocalizations.supportedLocales.first.languageCode),
+  );
 
   @override
   Widget build(BuildContext context) {
