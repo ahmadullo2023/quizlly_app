@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Screenshot](https://github.com/ahmadullo2023/quizlly_app/blob/master/assets/score_screen.png)
+![alt text](https://github.com/ahmadullo2023/quizlly_app/blob/master/assets/images/photo_2023-11-21_14-55-55.jpg)
